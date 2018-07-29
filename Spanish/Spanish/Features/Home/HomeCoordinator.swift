@@ -17,7 +17,15 @@ class HomeCoordinator: Coordinator {
 	}
 
 	func start(with completion: @escaping () -> Void = {}) {
+		let tabBar = TabBarController()
 		let homeViewController = HomeViewController(coordinator: self.delegate)
-		self.rootViewController = homeViewController
+		if tabBar.viewControllers != nil {
+			tabBar.viewControllers?.append(homeViewController)
+		} else {
+			tabBar.viewControllers = [homeViewController]
+		}
+
+		self.rootViewController = tabBar
+		tabBar.setupTabBar()
 	}
 }

@@ -15,6 +15,7 @@
 		746DDC85210D2FBA004313E2 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746DDC84210D2FBA004313E2 /* HomeViewController.swift */; };
 		746DDC87210D3217004313E2 /* HomeCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746DDC86210D3217004313E2 /* HomeCoordinator.swift */; };
 		746DDC8A210D3295004313E2 /* Word.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746DDC89210D3295004313E2 /* Word.swift */; };
+		746DDC8C210D33E2004313E2 /* TabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746DDC8B210D33E2004313E2 /* TabBarController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		746DDC84210D2FBA004313E2 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		746DDC86210D3217004313E2 /* HomeCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeCoordinator.swift; sourceTree = "<group>"; };
 		746DDC89210D3295004313E2 /* Word.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Word.swift; sourceTree = "<group>"; };
+		746DDC8B210D33E2004313E2 /* TabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,7 +84,7 @@
 			isa = PBXGroup;
 			children = (
 				746DDC7B210D272A004313E2 /* Features */,
-				746DDC7D210D2746004313E2 /* Coordinators */,
+				746DDC7D210D2746004313E2 /* Application */,
 				746DDC83210D2BB0004313E2 /* Sources */,
 				746DDC7E210D2756004313E2 /* Resources */,
 			);
@@ -116,12 +118,13 @@
 			path = Home;
 			sourceTree = "<group>";
 		};
-		746DDC7D210D2746004313E2 /* Coordinators */ = {
+		746DDC7D210D2746004313E2 /* Application */ = {
 			isa = PBXGroup;
 			children = (
 				746DDC7F210D27F4004313E2 /* AppCoordinator.swift */,
+				746DDC8B210D33E2004313E2 /* TabBarController.swift */,
 			);
-			path = Coordinators;
+			path = Application;
 			sourceTree = "<group>";
 		};
 		746DDC7E210D2756004313E2 /* Resources */ = {
@@ -269,6 +272,7 @@
 				746DDC80210D27F4004313E2 /* AppCoordinator.swift in Sources */,
 				746DDC87210D3217004313E2 /* HomeCoordinator.swift in Sources */,
 				746DDC8A210D3295004313E2 /* Word.swift in Sources */,
+				746DDC8C210D33E2004313E2 /* TabBarController.swift in Sources */,
 				746DDC5C210D20E4004313E2 /* AppDelegate.swift in Sources */,
 				746DDC85210D2FBA004313E2 /* HomeViewController.swift in Sources */,
 			);
