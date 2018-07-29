@@ -3,618 +3,618 @@
         "es": "agregar",
         "en": "to add",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "reponder",
         "en": "to answer",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "preguntar, pedir",
         "en": "to ask",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "romper(se)",
         "en": "to break",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "traer",
         "en": "to bring",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "comprar",
         "en": "to buy",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "llamar",
         "en": "to call",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "llevar, cargar",
         "en": "to carry",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "limpiar",
         "en": "to clean",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "cerrar",
         "en": "to close",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "venir",
         "en": "to come",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "quejarse",
         "en": "to complain",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "completar",
         "en": "to complete",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "convertir",
         "en": "to convert",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "copiar",
         "en": "to copy",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "llorar",
         "en": "to cry",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "bailar",
         "en": "to dance",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "morir(se)",
         "en": "to die",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "hacer",
         "en": "to do",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "beber, tomar",
         "en": "to drink",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "manejar",
         "en": "to drive",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "comer",
         "en": "to eat",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "borra",
         "en": "to erase",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "explicar",
         "en": "to explain",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "terminar",
         "en": "to finish",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "reparar",
         "en": "to fix",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "seguir",
         "en": "to follow",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "conseguir, llegar",
         "en": "to get",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "dar",
         "en": "to give",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "ir(se)",
         "en": "to go",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "calificar",
         "en": "to grade",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "advinar",
         "en": "to guess",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "acontecer",
         "en": "to happen",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "tener",
         "en": "to have",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "oír",
         "en": "to hear",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "ayudar",
         "en": "to help",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "arrodillar(se)",
         "en": "to kneel",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "reír(se)",
         "en": "to laugh",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "acostar, recostar",
         "en": "to lay",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "aprender",
         "en": "to learn",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "salir, dejar",
         "en": "to leave",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "mentir",
         "en": "to lie",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "gustar(se)",
         "en": "to like",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "escuchar",
         "en": "to listen",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "vivir",
         "en": "to live",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "mirar",
         "en": "to look",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "amar",
         "en": "to love",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "hacer",
         "en": "to make",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "equivocar(se)",
         "en": "to make a mistake",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "perder",
         "en": "to miss",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "mover, mudarse",
         "en": "to move",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "necesitar",
         "en": "to need",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "abrir",
         "en": "to open",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "organizar",
         "en": "to organize",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "pintar",
         "en": "to paint",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "jugar",
         "en": "to play",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "practicar",
         "en": "to practice",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "pronunciar",
         "en": "to pronounce",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "poner, colocar",
         "en": "to put",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "leer",
         "en": "to read",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "referir",
         "en": "to refer",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "repetir",
         "en": "to repeat",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "reemplazar",
         "en": "to replace",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "descansar",
         "en": "to rest",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "repasar",
         "en": "to review",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "montar, cabalgar",
         "en": "to ride",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "correr",
         "en": "to run",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "decir",
         "en": "to say",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "ver",
         "en": "to see",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "vender",
         "en": "to sell",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "compartir",
         "en": "to share",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "mostrar",
         "en": "to show",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "cantar",
         "en": "to sing",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "sentar(se)",
         "en": "to sit",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "dormir",
         "en": "to sleep",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "sonreír",
         "en": "to smile",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "sonar",
         "en": "to sound",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "deletrear",
         "en": "to spell",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "gastar",
         "en": "to spend",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "empezar",
         "en": "to start",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "parar(se)",
         "en": "to spend",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "parar",
         "en": "to stop",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "estudiar",
         "en": "to study",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "nadar",
         "en": "to swin",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "tomar",
         "en": "to take",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "hablar",
         "en": "to talk",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "hablar por teléfono",
         "en": "to talk on the phone",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "enseñar",
         "en": "to teach",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "decir, contar",
         "en": "to tell",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "traducir",
         "en": "to translate",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "viajar",
         "en": "to travel",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "tratar, intentar",
         "en": "to try",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "entender, comprender",
         "en": "to understand",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "usar",
         "en": "to use",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "despertar(se)",
         "en": "to wake",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "caminar",
         "en": "to walk",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "querer",
         "en": "to want",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "lavar(se)",
         "en": "to wash",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "mirar, observar",
         "en": "to watch",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "usar (ropa)",
         "en": "to wear",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "trabajar",
         "en": "to work",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "escribir",
         "en": "to write",
         "pt": "",
-        "examples": []
+        "examples": [""]
     },
     {
         "es": "señalar",
         "en": "to point",
         "pt": "",
-        "examples": []
+        "examples": [""]
     }
 ]

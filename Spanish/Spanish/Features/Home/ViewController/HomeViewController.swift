@@ -13,9 +13,11 @@ class HomeViewController: UIViewController {
 	// MARK: - properties
 	
 	private var coordinator: AppCoordinatorDelegate
+	private let words: [Word]
 
 	// MARK: - init
-	init(coordinator: AppCoordinatorDelegate) {
+	init(words: [Word], coordinator: AppCoordinatorDelegate) {
+		self.words = words
 		self.coordinator = coordinator
 		super.init(nibName: nil, bundle: nil)
 	}
@@ -27,5 +29,7 @@ class HomeViewController: UIViewController {
 	override func viewDidLoad() {
 		super.viewDidLoad()
 		view.backgroundColor = .red
+
+		print(self.words.first)
 	}
 }

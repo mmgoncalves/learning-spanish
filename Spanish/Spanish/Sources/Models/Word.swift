@@ -8,6 +8,9 @@
 
 import Foundation
 
-struct Word {
-	
+struct Word: Codable {
+	var es: String
+	var en: String
+	var pt: String
+	var examples: [String]
 }
