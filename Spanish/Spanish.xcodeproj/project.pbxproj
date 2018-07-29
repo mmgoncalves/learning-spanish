@@ -16,6 +16,7 @@
 		746DDC87210D3217004313E2 /* HomeCoordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746DDC86210D3217004313E2 /* HomeCoordinator.swift */; };
 		746DDC8A210D3295004313E2 /* Word.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746DDC89210D3295004313E2 /* Word.swift */; };
 		746DDC8C210D33E2004313E2 /* TabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746DDC8B210D33E2004313E2 /* TabBarController.swift */; };
+		746DDC8E210E168D004313E2 /* words.json in Resources */ = {isa = PBXBuildFile; fileRef = 746DDC8D210E168D004313E2 /* words.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +43,7 @@
 		746DDC86210D3217004313E2 /* HomeCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeCoordinator.swift; sourceTree = "<group>"; };
 		746DDC89210D3295004313E2 /* Word.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Word.swift; sourceTree = "<group>"; };
 		746DDC8B210D33E2004313E2 /* TabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarController.swift; sourceTree = "<group>"; };
+		746DDC8D210E168D004313E2 /* words.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = words.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +132,7 @@
 		746DDC7E210D2756004313E2 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				746DDC8D210E168D004313E2 /* words.json */,
 				746DDC5B210D20E4004313E2 /* AppDelegate.swift */,
 				746DDC62210D20E5004313E2 /* Assets.xcassets */,
 				746DDC64210D20E5004313E2 /* LaunchScreen.storyboard */,
@@ -250,6 +253,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				746DDC8E210E168D004313E2 /* words.json in Resources */,
 				746DDC66210D20E5004313E2 /* LaunchScreen.storyboard in Resources */,
 				746DDC63210D20E5004313E2 /* Assets.xcassets in Resources */,
 			);
