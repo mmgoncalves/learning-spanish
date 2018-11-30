@@ -19,16 +19,15 @@ class HomeCoordinator: Coordinator {
 	}
 
 	func start(with completion: @escaping () -> Void = {}) {
-		// TODO: - if words dosn't exist, show empty state view
 		let tabBar = TabBarController()
-		let homeViewController = HomeViewController(words: self.words!, coordinator: self.delegate)
+		let homeViewController = HomeViewController(words: self.words, coordinator: self.delegate)
 		if tabBar.viewControllers != nil {
 			tabBar.viewControllers?.append(homeViewController)
 		} else {
 			tabBar.viewControllers = [homeViewController]
 		}
 
-		self.rootViewController = tabBar
+		rootViewController = tabBar
 		tabBar.setupTabBar()
 	}
 }

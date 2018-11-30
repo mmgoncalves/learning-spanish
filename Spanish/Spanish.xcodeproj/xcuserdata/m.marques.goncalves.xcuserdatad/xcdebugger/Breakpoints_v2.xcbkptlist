@@ -2,4 +2,54 @@
 <Bucket
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Spanish/Features/Home/ViewController/HomeViewController.swift"
+            timestampString = "557728704.985971"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "fetchWords()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Spanish.HomeViewController.(fetchWords in _BAA6EF7AC94AF7D625F6940C45D3B6E1)() -&gt; ()"
+                  moduleName = "Spanish"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m.marques.goncalves/projects/learning-spanish/Spanish/Spanish/Features/Home/ViewController/HomeViewController.swift"
+                  timestampString = "557725460.5562119"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "55">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in Spanish.HomeViewController.(fetchWords in _BAA6EF7AC94AF7D625F6940C45D3B6E1)() -&gt; ()"
+                  moduleName = "Spanish"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/m.marques.goncalves/projects/learning-spanish/Spanish/Spanish/Features/Home/ViewController/HomeViewController.swift"
+                  timestampString = "557725460.559672"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "11">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>

@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		745543A6213B39DE003BBE89 /* WordRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 745543A5213B39DE003BBE89 /* WordRepository.swift */; };
+		745543A9213B3B08003BBE89 /* LoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 745543A8213B3B08003BBE89 /* LoadingView.swift */; };
+		745543AC213B3B53003BBE89 /* LoadingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 745543AB213B3B53003BBE89 /* LoadingViewController.swift */; };
+		745543AE213E3974003BBE89 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 745543AD213E3974003BBE89 /* HomeView.swift */; };
 		746DDC5C210D20E4004313E2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746DDC5B210D20E4004313E2 /* AppDelegate.swift */; };
 		746DDC63210D20E5004313E2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 746DDC62210D20E5004313E2 /* Assets.xcassets */; };
 		746DDC66210D20E5004313E2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 746DDC64210D20E5004313E2 /* LaunchScreen.storyboard */; };
@@ -17,6 +21,10 @@
 		746DDC8A210D3295004313E2 /* Word.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746DDC89210D3295004313E2 /* Word.swift */; };
 		746DDC8C210D33E2004313E2 /* TabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746DDC8B210D33E2004313E2 /* TabBarController.swift */; };
 		746DDC8E210E168D004313E2 /* words.json in Resources */ = {isa = PBXBuildFile; fileRef = 746DDC8D210E168D004313E2 /* words.json */; };
+		746DDC90210F409A004313E2 /* HomeCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746DDC8F210F4099004313E2 /* HomeCollectionView.swift */; };
+		746DDC92210F60D9004313E2 /* HomeCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746DDC91210F60D9004313E2 /* HomeCollectionViewCell.swift */; };
+		746DDC95210F610F004313E2 /* ViewCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746DDC94210F610F004313E2 /* ViewCode.swift */; };
+		746DDC98210F62A3004313E2 /* UIView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 746DDC97210F62A3004313E2 /* UIView+Extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -30,6 +38,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		745543A5213B39DE003BBE89 /* WordRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordRepository.swift; sourceTree = "<group>"; };
+		745543A8213B3B08003BBE89 /* LoadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingView.swift; sourceTree = "<group>"; };
+		745543AB213B3B53003BBE89 /* LoadingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingViewController.swift; sourceTree = "<group>"; };
+		745543AD213E3974003BBE89 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		746DDC58210D20E4004313E2 /* Spanish.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Spanish.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		746DDC5B210D20E4004313E2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		746DDC62210D20E5004313E2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -44,6 +56,10 @@
 		746DDC89210D3295004313E2 /* Word.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Word.swift; sourceTree = "<group>"; };
 		746DDC8B210D33E2004313E2 /* TabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarController.swift; sourceTree = "<group>"; };
 		746DDC8D210E168D004313E2 /* words.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = words.json; sourceTree = "<group>"; };
+		746DDC8F210F4099004313E2 /* HomeCollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeCollectionView.swift; sourceTree = "<group>"; };
+		746DDC91210F60D9004313E2 /* HomeCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeCollectionViewCell.swift; sourceTree = "<group>"; };
+		746DDC94210F610F004313E2 /* ViewCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewCode.swift; sourceTree = "<group>"; };
+		746DDC97210F62A3004313E2 /* UIView+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Extension.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +80,32 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		745543A3213B39C0003BBE89 /* Commom */ = {
+			isa = PBXGroup;
+			children = (
+				745543A7213B3AF7003BBE89 /* LoadingView */,
+				745543A4213B39CD003BBE89 /* Repository */,
+			);
+			path = Commom;
+			sourceTree = "<group>";
+		};
+		745543A4213B39CD003BBE89 /* Repository */ = {
+			isa = PBXGroup;
+			children = (
+				745543A5213B39DE003BBE89 /* WordRepository.swift */,
+			);
+			path = Repository;
+			sourceTree = "<group>";
+		};
+		745543A7213B3AF7003BBE89 /* LoadingView */ = {
+			isa = PBXGroup;
+			children = (
+				745543A8213B3B08003BBE89 /* LoadingView.swift */,
+				745543AB213B3B53003BBE89 /* LoadingViewController.swift */,
+			);
+			path = LoadingView;
+			sourceTree = "<group>";
+		};
 		746DDC4F210D20E4004313E2 = {
 			isa = PBXGroup;
 			children = (
@@ -125,6 +167,8 @@
 			children = (
 				746DDC7F210D27F4004313E2 /* AppCoordinator.swift */,
 				746DDC8B210D33E2004313E2 /* TabBarController.swift */,
+				746DDC96210F628B004313E2 /* Extensions */,
+				746DDC93210F6101004313E2 /* Protocols */,
 			);
 			path = Application;
 			sourceTree = "<group>";
@@ -144,6 +188,9 @@
 		746DDC81210D2B76004313E2 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				746DDC8F210F4099004313E2 /* HomeCollectionView.swift */,
+				746DDC91210F60D9004313E2 /* HomeCollectionViewCell.swift */,
+				745543AD213E3974003BBE89 /* HomeView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -159,6 +206,7 @@
 		746DDC83210D2BB0004313E2 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
+				745543A3213B39C0003BBE89 /* Commom */,
 				746DDC88210D327B004313E2 /* Models */,
 			);
 			path = Sources;
@@ -170,6 +218,22 @@
 				746DDC89210D3295004313E2 /* Word.swift */,
 			);
 			path = Models;
+			sourceTree = "<group>";
+		};
+		746DDC93210F6101004313E2 /* Protocols */ = {
+			isa = PBXGroup;
+			children = (
+				746DDC94210F610F004313E2 /* ViewCode.swift */,
+			);
+			path = Protocols;
+			sourceTree = "<group>";
+		};
+		746DDC96210F628B004313E2 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				746DDC97210F62A3004313E2 /* UIView+Extension.swift */,
+			);
+			path = Extensions;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -273,12 +337,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				746DDC90210F409A004313E2 /* HomeCollectionView.swift in Sources */,
 				746DDC80210D27F4004313E2 /* AppCoordinator.swift in Sources */,
+				746DDC95210F610F004313E2 /* ViewCode.swift in Sources */,
 				746DDC87210D3217004313E2 /* HomeCoordinator.swift in Sources */,
+				745543A6213B39DE003BBE89 /* WordRepository.swift in Sources */,
+				745543A9213B3B08003BBE89 /* LoadingView.swift in Sources */,
 				746DDC8A210D3295004313E2 /* Word.swift in Sources */,
 				746DDC8C210D33E2004313E2 /* TabBarController.swift in Sources */,
 				746DDC5C210D20E4004313E2 /* AppDelegate.swift in Sources */,
+				745543AE213E3974003BBE89 /* HomeView.swift in Sources */,
 				746DDC85210D2FBA004313E2 /* HomeViewController.swift in Sources */,
+				746DDC98210F62A3004313E2 /* UIView+Extension.swift in Sources */,
+				745543AC213B3B53003BBE89 /* LoadingViewController.swift in Sources */,
+				746DDC92210F60D9004313E2 /* HomeCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
